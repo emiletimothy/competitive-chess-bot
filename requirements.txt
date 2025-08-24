@@ -1,0 +1,11 @@
+# Chess Bot Web API Dependencies
+Flask>=2.3.0
+Flask-CORS>=4.0.0
+
+# Core dependencies
+# Python 3.7+ recommended for optimal performance
+
+# Optional dependencies for future enhancements:
+# pygame>=2.0.0  # For graphical interface
+# python-chess>=1.999  # Alternative chess library for validation
+# numpy>=1.20.0  # For advanced position evaluation

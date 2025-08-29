@@ -1,6 +1,6 @@
-# 🏆 Competitive Chess Bot
+# Competitive Chess Bot
 
-A stunning web-based chess AI with drag-and-drop interface, powered by advanced minimax algorithm and alpha-beta pruning.
+A web-based chess AI with drag-and-drop interface, powered by advanced minimax algorithm and alpha-beta pruning, and any other RL policy you wish to benchmark!
 
 ![Chess Bot Interface](https://img.shields.io/badge/Interface-Web%20Based-blue)
 ![AI Engine](https://img.shields.io/badge/AI-Minimax%20%2B%20Alpha--Beta-green)
